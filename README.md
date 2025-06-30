@@ -25,7 +25,8 @@
 
 Projeye ait kısa bir ekran kaydını aşağıda görebilirsiniz:
 
-![Uploading EkranKayd2025-06-3020.18.02-ezgif.com-video-to-gif-converter (2).gif…]()
+![Coffee Espresso Demo](![Uploading EkranKayd2025-06-3020.18.02-ezgif.com-video-to-gif-converter (2).gif…]()
+)
 
 
 
