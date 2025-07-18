@@ -34,6 +34,7 @@ Projeye ait kısa bir ekran kaydını aşağıda görebilirsiniz:
 
 
 
+
 ---
 
 ## 📬 İletişim
